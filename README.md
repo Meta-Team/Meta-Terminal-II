@@ -25,6 +25,8 @@ Chassis Plot. In PID result table, click on the Cell will Reload PID params to t
 
 ## Tasks
 
+### THE next step should be optimize the project. As Now almost all view's code is written in the appdelegate.swift, maybe we need to try to seperate them into different view files, for the maintainability.
+
 ### Main Frame
 - [x] Setting Up Project
 
